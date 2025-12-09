@@ -1,4 +1,17 @@
-# CreacionDeVideoJuegos-U2
+# CreacionDeVideoJuegos-U4
+
+## Datos del autor:
+- Docente: BARRON RODRIGUEZ GABRIEL
+- Nombre: Gerardo Hernández López
+- Grupo: GIDS5102
+- Materia:  Creación de Videojuegos
+- Unidad: 3 Distribución de la aplicación de videojuegos.
+
+### Página de WebGL:  
+- [Enlace](https://play.unity.com/en/games/43c34ae7-fc45-4b5f-8791-cd3a3540c51d/webgl-builds)
+
+### Página de Itch.io:  
+- [Enlace](https://gerardogg.itch.io/salvemos-la-utng2)
 
 # 🎮 Salvemos la UTNG  
 
@@ -27,10 +40,8 @@ A través de mecánicas de combate y exploración, el jugador internaliza la imp
 - Clasificación: E (para todos)
 - Plataforma: 2D (estilo RPG clásico o top-down)
 - Ambientación: Campus de la UTNG, transformado de un lugar limpio y educativo a un entorno contaminado y peligroso.
-*Historia:*
-El jugador controla a un estudiante destacado a quien el Rector le encomienda una misión crítica: investigar y detener la oleada de monstruos que ha aparecido de la nada en el campus. Pronto descubre que estas criaturas son "ecosistemas tóxicos" vivos, formados por la basura descuidada. Con la ayuda de su equipo Pokémon, debe restaurar el orden y llevar un mensaje de cambio a toda la comunidad universitaria.
-*Narrativa:*
-A través de diálogos con profesores, personal administrativo y otros estudiantes, se revela cómo pequeños actos de negligencia colectiva llevaron a la gran crisis. El jugador es el catalizador para un cambio de conciencia.
+- Historia: El jugador controla a un estudiante destacado a quien el Rector le encomienda una misión crítica: investigar y detener la oleada de monstruos que ha aparecido de la nada en el campus. Pronto descubre que estas criaturas son "ecosistemas tóxicos" vivos, formados por la basura descuidada. Con la ayuda de su equipo Pokémon, debe restaurar el orden y llevar un mensaje de cambio a toda la comunidad universitaria.
+- Narrativa: A través de diálogos con profesores, personal administrativo y otros estudiantes, se revela cómo pequeños actos de negligencia colectiva llevaron a la gran crisis. El jugador es el catalizador para un cambio de conciencia.
 
 ### ⚖️ Aspectos Legales  
 El desarrollo de "Salvemos la UTNG" considera diversos aspectos legales, en particular el uso de personajes y mecánicas inspiradas en la franquicia Pokémon bajo el concepto de "parodia educativa" (fair use), garantizando que no se infrinjan derechos de autor y se respete la propiedad intelectual. Este proyecto es estrictamente educativo y sin ánimo de lucro.
@@ -51,17 +62,17 @@ Link de acceso al documento detallado de los aspectos legales.
 | Nivel | Zona | Descripción | Enemigos Principales |
 |-------|------|-------------|----------------------|
 | 1 | Edificio F | Se adentra en la escena y se da contexto de lo que se hará en el juego, se explican mecánicas y se da la primer misión | Entrenadores de nivel medio |
-| 2 | Camino al CGTI | ... | Monstruos de nivel medio-alto |
-| 3 | Alrrededores y cuevas | ... | Monstruos de mayor nivel y complejidad |
-| 4 | Ida final al edificio F | ... | Monstruos y un entrenador final de bastante nivel para derrotar |
+| 2 | Camino al CGTI | Se adentra más en escena y se enfrenta a monstruos de basura a los cuales debe de derrotar con ayuda de sus compañeros Pokemon | Monstruos de nivel medio-alto |
+| 3 | Alrrededores y cuevas | Explora dentro de cuevas en busca de respuestas y sobrevivientes que le cuentan la verdad sobre los monstruos. Además de enfrentarse a monstruos bastante fuertes. | Monstruos de mayor nivel y complejidad |
+| 4 | Ida final al edificio F | Regresa al edificio F para contar la verdad  | Monstruos y un entrenador final de bastante nivel para derrotar |
 
 ---
 
 ## 👥 Personajes  
-# 🧑‍🎓 Protagonista  
+### 🧑‍🎓 Protagonista  
 *Un estudiante responsable y valiente de la UTNG, elegido para liderar la misión de salvar la universidad.*
 
-# 🐾 Compañeros Pokémon  
+### 🐾 Compañeros Pokémon  
 *Fieles aliados que representan las fuerzas de la naturaleza y la amistad, claves para combatir la contaminación.*
 
 ### 👾 Monstruos de Basura  
