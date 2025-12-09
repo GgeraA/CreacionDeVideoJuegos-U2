@@ -45,7 +45,7 @@ A través de mecánicas de combate y exploración, el jugador internaliza la imp
 ### ⚖️ Aspectos Legales  
 El desarrollo de "Salvemos la UTNG" considera diversos aspectos legales, en particular el uso de personajes y mecánicas inspiradas en la franquicia Pokémon bajo el concepto de "parodia educativa" (fair use), garantizando que no se infrinjan derechos de autor y se respete la propiedad intelectual. Este proyecto es estrictamente educativo y sin ánimo de lucro.
 Link de acceso al documento detallado de los aspectos legales.
-[Ver documento legal aquí]()  
+[Ver documento legal aquí](https://drive.google.com/file/d/122yo9vxGMRE3j6BmwSpPxWPUEhf1B--h/view?usp=drive_link)  
 
 ---
 
